@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/calendar.vcxproj.filters
+/calendar.vcxproj
+/calendar.sln
+/.gitignore
+/.gitattributes
